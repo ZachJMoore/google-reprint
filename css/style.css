@@ -129,6 +129,7 @@
     list-style-type: none;
 }
 .footer-nav li a{
+    color: darkslategrey;
     text-decoration: none;
     padding: 25px;
     
